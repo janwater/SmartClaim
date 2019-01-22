@@ -1,0 +1,1 @@
+c:\Anaconda3\python C:\Users\E154709\SmartClaim\SmartClaim.py
